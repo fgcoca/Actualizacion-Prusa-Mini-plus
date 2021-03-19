@@ -1,4 +1,4 @@
-# Actualizacion-Prusa-Mini-plus
+# Actualización de la Prusa Mini+
 Actualización realizada debido a los continuos atascos por retracciones debido al heatbreak que implementa de serie esta impresora.
 
-[Acceso a los contenidos](https://fgcoca.github.io/Actualizacion-Prusa-Mini-plus/)
+[Enlace a la web del proyecto](https://fgcoca.github.io/Actualizaci-n-de-la-Prusa-Mini-/)
